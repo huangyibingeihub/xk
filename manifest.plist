@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://139.159.162.178:8888/down/xkapp.ipa</string>
+                    <string>http://139.159.162.178:8888/down/app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xingkong.client</string>
+                <string>com.aruistar.cmcapp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
